@@ -1,6 +1,6 @@
 # [클론코딩] KIFFY
 
-![kiffy](https://user-images.githubusercontent.com/104907318/184520768-d4aaefbf-90fd-4117-b665-38645ebc46f9.png)
+![kiffy](https://user-images.githubusercontent.com/104907318/184520994-cf235b14-e30f-490f-ba99-78896ecbd80e.png)
 
 **요약** :
 
