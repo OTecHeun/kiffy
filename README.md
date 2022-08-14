@@ -16,4 +16,4 @@
 
 **배포**
 
-[키피 바로가기](http://13.124.139.24/kiffy/kiffy.html)
+- [키피 바로가기](http://13.124.139.24/kiffy/kiffy.html)
