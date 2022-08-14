@@ -1,6 +1,6 @@
 # [클론코딩] KIFFY
 
-![kiffy.png](%5B%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%86%AB%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B5%E1%86%BC%5D%20KIFFY%20bcf5e9fce9464b13a287e2d587a50e07/kiffy.png)
+![kiffy](https://user-images.githubusercontent.com/104907318/184520768-d4aaefbf-90fd-4117-b665-38645ebc46f9.png)
 
 **요약** :
 
